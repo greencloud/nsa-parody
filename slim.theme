@@ -1,0 +1,30 @@
+## FreeBSD SLiM Theme based on fbsd theme
+## Author: Rasmus van Guido (greencloud@linuxmail.org)
+
+msg_color               #3d3d3d
+msg_font                'Ubuntu Mono':size=12:regular:dpi=96
+msg_x                   50%
+msg_y                   71%
+
+background_style        stretch
+background_color        #141213
+
+input_font              'Ubuntu Mono':size=10:regular:dpi=96
+input_fgcolor           #0f110f  
+input_panel_x           50%
+input_panel_y           71%
+input_name_x            39
+input_name_y            74
+input_pass_x            -1
+input_pass_y            -1
+
+session_font			'Ubuntu Mono':size=14:bold:dpi=96
+session_color			#1e1c1d
+session_x				50%
+session_y				91%
+
+welcome_font            'Ubuntu Mono':size=12:regular:dpi=96
+welcome_color           #3d3d3d
+welcome_x               50%
+welcome_y               80%
+welcome_msg             welcome %host
