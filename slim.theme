@@ -18,10 +18,10 @@ input_name_y            74
 input_pass_x            -1
 input_pass_y            -1
 
-session_font			      'Ubuntu Mono':size=14:bold:dpi=96
-session_color			      #1e1c1d
-session_x				        50%
-session_y				        91%
+session_font		'Ubuntu Mono':size=14:bold:dpi=96
+session_color		#1e1c1d
+session_x		50%
+session_y		91%
 
 welcome_font            'Ubuntu Mono':size=12:regular:dpi=96
 welcome_color           #3d3d3d
